@@ -1,9 +1,7 @@
 package entidades;
 
 import java.time.LocalDate;
-import java.util.List;
 
-import io.quarkus.panache.common.Sort;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
